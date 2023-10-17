@@ -1,2 +1,2 @@
 # comments-glassofcode.com
-Website comments are stored here, the repository is managed by "utterances" library.
+Comments for the website [glassofcode.com](https://glassofcode.com/) are stored here, the repository is managed by the [giscus](https://giscus.app/) library.
